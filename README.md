@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Sandeep rathod
 - 👀 I’m interested in Competative programming , And Web dev these are my interest areas..
--     react library.. ,
+-     SpringBoot Framework.. ,
 -     next.js framework ,
--     firebase ,
+-     Mysql,Oracle Sql ,
 -     tailwind CSS. 
-- 🌱 I’m currently learning ... advanced programming concepts and data-science.
+-     Deep Learning , CNN models
+- 🌱 I’m currently Working on Advanced SpringBoot Consepts to make Dev.. Easy.
 - 📫 How to reach me ...
 
 <!---
