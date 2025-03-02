@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sandeep rathod
 - 👀 I’m interested in Competative programming , And Web dev these are my interest areas..
+-     Java , C++ , Javascript
 -     SpringBoot Framework.. ,
 -     next.js framework ,
 -     Mysql,Oracle Sql ,
